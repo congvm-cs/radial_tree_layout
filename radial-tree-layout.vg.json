@@ -40,7 +40,7 @@
   "data": [
     {
       "name": "tree",
-      "url": "https://github.com/vocong25/make_it_online/blob/master/flare.json",
+      "url": "https://raw.githubusercontent.com/vocong25/make_it_online/master/flare.json",
       "transform": [
         {
           "type": "stratify",
