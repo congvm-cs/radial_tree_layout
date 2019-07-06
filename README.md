@@ -19,6 +19,11 @@ And out result showed like this:
 
 ![](https://vega.github.io/vega/examples/img/radial-tree-layout.png)
 
+## To Run
+
+Before using this source, we need to parse the table into json following `vega format`. For more infomation, you check out `*.json`  file.
+
+To be detail, I will update later. The source code is stored on my company PC. I forgot to upload it here all the time :((
 
 ## Reference
 
